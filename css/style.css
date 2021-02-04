@@ -25,7 +25,7 @@ body {
 
 .sidebar {
     background: #1e2939;
-    width: 460px;
+    width: 522px;
     padding-top: 40px;
     padding-bottom: 40px;
     color: #ffffff;
@@ -37,8 +37,8 @@ body {
 }
 
 .about-me-container {
-    padding-left: 90px;
-    padding-right: 90px;
+    padding-left: 85px;
+    padding-right: 85px;
     padding-top: 110px;
     padding-bottom: 110px;
 }

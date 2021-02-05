@@ -124,6 +124,14 @@ body {
     color: #f0f1f2;
 }
 
+/* body*/
+.lang{
+    text-align: right;
+    margin-left: 100px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
 .professional {
     font-size: 17px;
     font-weight: 700;

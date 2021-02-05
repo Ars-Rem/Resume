@@ -55,6 +55,7 @@ body {
     line-height: 24px;
     color: #ffffff;
     margin-top: 20px;
+    margin-bottom: 20px;
 
 }
 
@@ -125,13 +126,18 @@ body {
 }
 
 /* body*/
-.lang{
+.lang {
     text-align: right;
-    margin-left: 100px;
-    margin-right: 0px;
-    margin-top: 0px;
-    margin-bottom: 0px;
 }
+
+.EN {
+    text-decoration: none;
+}
+
+.UA {
+    text-decoration: none;
+}
+
 .professional {
     font-size: 17px;
     font-weight: 700;

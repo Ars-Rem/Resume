@@ -1,0 +1,30 @@
+body {
+    background: #1b1b1b;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 44px;
+    padding-bottom: 40px;
+    font-family: Montserrat;
+    font-size: 50px;
+}
+
+.lang {
+    text-align: right;
+    text-decoration: none;
+    font-size: 22px;
+    padding-top: 40px;
+}
+
+.EN {
+    text-decoration: none;
+    color:aliceblue;
+}
+
+.UA {
+    text-decoration: none;
+    color: grey;
+}
+
+.image {
+    padding-top: 20px;
+}
